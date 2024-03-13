@@ -1,7 +1,0 @@
-CommonServiceLocator
-Microsoft.AspNet.WebApi
-Microsoft.Data.Services.Client
-Microsoft.WindowsAzure.ConfigurationManager
-Unity
-WindowsAzure.Storage
-FSharp.Core

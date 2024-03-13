@@ -1,9 +1,0 @@
-CommonServiceLocator
-Microsoft.AspNet.WebApi.Cors
-Microsoft.AspNet.WebApi.WebHost
-Microsoft.Data.Services.Client
-Microsoft.WindowsAzure.ConfigurationManager
-Unity
-Unity.Configuration
-WindowsAzure.Storage
-FParsec

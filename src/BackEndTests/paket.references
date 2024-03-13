@@ -1,8 +1,0 @@
-CommonServiceLocator
-FSharp.Data
-Microsoft.AspNet.WebApi.Owin
-Microsoft.Owin.SelfHost
-WindowsAzure.Storage
-Unity
-Microsoft.VisualStudio.QualityTools.UnitTestFramework
-FParsec
